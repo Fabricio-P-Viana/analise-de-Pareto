@@ -1,12 +1,5 @@
 # ================================================================================================================================
 #
-# FATEC FERRAZ DE VASCONCELOS 2023
-# ATIVIDADE : TABELA DE PARETO
-# PROFESSOR : LUIZ CARLOS DOS SANTOS FILHO
-# PROGRAMADORES:
-# CINDY DOS SANTOS COIMBRA - RA 2920482121029
-# FABRICIO PEREIRA VIANA - RA 292048222031
-# KARINA OLIVEIRA NUNES - RA 2920482121031
 #
 # layout (tabela) ================================================================================================================
 
